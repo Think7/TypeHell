@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "commonjs"
+    },
+    "files": [
+        "main.ts",
+        "typings/main.d.ts"
+    ]
+}
