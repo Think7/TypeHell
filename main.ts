@@ -5,7 +5,7 @@
 let buff = new Buffer("test");
 console.log(buff);
 
-import {MongoClient} from "mongodb/mongodb";
+import {MongoClient} from "mongodb";
 let client = new MongoClient();
 
 console.log(client);
